@@ -14,7 +14,7 @@ Example for Nodejs with Express Framework, use ElasticSearch with data from MySq
 ## node create
 ## node forceBuildIndex
 ## next time index will auto rebuild by schulue (app.js line 54-57)
-#check elasticsearch server
+# check elasticsearch server
 ## mapping http://localhost:9200/world?pretty=true
 ## search http://localhost:9200/world/_search?pretty=true&size=1000
 # test with postman
