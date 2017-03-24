@@ -5,9 +5,6 @@ Example for Nodejs with Express Framework, use ElasticSearch with data from MySq
 ## to setup express project http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 ## to setup elasticsearch https://blog.raananweber.com/2015/11/24/simple-autocomplete-with-elasticsearch-and-node-js/
 
-# install Nodejs https://nodejs.org/en/download/
-# install Expressjs https://expressjs.com/
-# install Nodemon https://github.com/remy/nodemon
 # use database world from mysql or import from {thisproject/data/world.sql}
 # update database connection info in connection.js
 # run elasticsearch from \elasticsearch-5.0.0\bin\elasticsearch.bat
