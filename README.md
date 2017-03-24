@@ -1,9 +1,9 @@
 # node_elasticsearch_example
 Example for Nodejs with Express Framework, use ElasticSearch with data from MySql
 
-#refer from: 
-to setup express project http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
-to setup elasticsearch https://blog.raananweber.com/2015/11/24/simple-autocomplete-with-elasticsearch-and-node-js/
+# refer from: 
+## to setup express project http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
+## to setup elasticsearch https://blog.raananweber.com/2015/11/24/simple-autocomplete-with-elasticsearch-and-node-js/
 
 # install Nodejs https://nodejs.org/en/download/
 # install Expressjs https://expressjs.com/
